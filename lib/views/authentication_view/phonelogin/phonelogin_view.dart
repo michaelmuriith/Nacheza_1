@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:player/views/authentication_view/otpverification/otpverification.dart';
-import 'package:player/views/authentication_view/phonelogin/phonelogin_viewmodel.dart';
-import 'package:player/widgets/auth_temp/auth_template.dart';
-import 'package:player/widgets/number_pad.dart';
+import 'package:Gamegig/views/authentication_view/otpverification/otpverification.dart';
+import 'package:Gamegig/views/authentication_view/phonelogin/phonelogin_viewmodel.dart';
+import 'package:Gamegig/widgets/auth_temp/auth_template.dart';
+import 'package:Gamegig/widgets/number_pad.dart';
 import 'package:stacked/stacked.dart';
 
 class PhoneLoginView extends StatefulWidget {

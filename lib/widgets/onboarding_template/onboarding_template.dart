@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:player/constants/app_utils.dart';
+import 'package:Gamegig/constants/app_utils.dart';
 
 class OnboardingTemplate extends StatelessWidget {
   final String imageurl;

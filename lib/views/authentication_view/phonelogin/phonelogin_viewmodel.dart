@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:player/view_models/template_model.dart';
-import 'package:player/router/routers.dart' as routes;
+import 'package:Gamegig/view_models/template_model.dart';
+import 'package:Gamegig/router/routers.dart' as routes;
 
 class PhoneLoginModel extends TemplateModel {
   String _mobileNo = '';

@@ -2,9 +2,9 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:liquid_swipe/liquid_swipe.dart';
-import 'package:player/views/onboarding_view/onboarding_viewmodel.dart';
+import 'package:Gamegig/views/onboarding_view/onboarding_viewmodel.dart';
 import 'package:stacked/stacked.dart';
-import 'package:player/router/routers.dart' as routes;
+import 'package:Gamegig/router/routers.dart' as routes;
 
 class OnboardingScreen extends StatefulWidget {
   const OnboardingScreen({Key? key}) : super(key: key);

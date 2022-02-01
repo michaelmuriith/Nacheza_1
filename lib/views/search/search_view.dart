@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:player/constants.dart';
-import 'package:player/widgets/bottom_nav.dart';
-import 'package:player/widgets/search.dart';
+import 'package:Gamegig/constants.dart';
+import 'package:Gamegig/widgets/bottom_nav.dart';
+import 'package:Gamegig/widgets/search.dart';
 
 class SearchView extends StatelessWidget {
   const SearchView({Key? key}) : super(key: key);

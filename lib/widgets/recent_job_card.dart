@@ -1,6 +1,6 @@
+import 'package:Gamegig/models/company.dart';
 import 'package:flutter/material.dart';
-import 'package:player/constants.dart';
-import 'package:player/models/company.dart';
+import 'package:Gamegig/constants.dart';
 
 class RecentJobCard extends StatelessWidget {
   final Company? company;

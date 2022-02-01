@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:player/constants.dart';
-import 'package:player/models/company.dart';
-import 'package:player/views/job_detail/job_detail_view.dart';
-import 'package:player/widgets/bottom_nav.dart';
-import 'package:player/widgets/recent_job_card.dart';
-import 'package:player/widgets/search.dart';
+import 'package:Gamegig/constants.dart';
+import 'package:Gamegig/models/company.dart';
+import 'package:Gamegig/views/job_detail/job_detail_view.dart';
+import 'package:Gamegig/widgets/bottom_nav.dart';
+import 'package:Gamegig/widgets/recent_job_card.dart';
+import 'package:Gamegig/widgets/search.dart';
 
 class Home extends StatelessWidget {
   const Home({Key? key}) : super(key: key);

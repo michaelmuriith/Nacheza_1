@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:player/views/accoutssetup/create_account_view.dart';
-import 'package:player/views/authentication_view/otpverification/otpverification.dart';
-import 'package:player/views/authentication_view/phonelogin/phonelogin_view.dart';
-import 'package:player/views/views.dart';
+import 'package:Gamegig/views/accoutssetup/create_account_view.dart';
+import 'package:Gamegig/views/authentication_view/otpverification/otpverification.dart';
+import 'package:Gamegig/views/authentication_view/phonelogin/phonelogin_view.dart';
+import 'package:Gamegig/views/views.dart';
 
 const String loginPage = 'login';
 const String accountSetupPage = 'accountSetupPage';

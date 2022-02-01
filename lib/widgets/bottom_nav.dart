@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:player/views/home/home_view.dart';
-import 'package:player/views/search/search_view.dart';
+import 'package:Gamegig/views/home/home_view.dart';
+import 'package:Gamegig/views/search/search_view.dart';
 
 import '../constants.dart';
 

@@ -1,5 +1,5 @@
+import 'package:Gamegig/services/navigation_service/navigation_service.dart';
 import 'package:get_it/get_it.dart';
-import 'package:player/services/services.dart';
 
 final GetIt locator = GetIt.instance;
 

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:player/view_models/template_model.dart';
+import 'package:Gamegig/view_models/template_model.dart';
 
 import '../../widgets/widgets.dart';
 

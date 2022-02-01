@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:player/constants.dart';
-import 'package:player/models/company.dart';
+import 'package:Gamegig/constants.dart';
+import 'package:Gamegig/models/company.dart';
 
 class CompanyCard2 extends StatelessWidget {
   final Company? company;

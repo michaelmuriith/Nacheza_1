@@ -1,9 +1,9 @@
 // ignore_for_file: use_key_in_widget_constructors
 
 import 'package:flutter/material.dart';
-import 'package:player/models/company.dart';
-import 'package:player/constants.dart';
-import 'package:player/views/job_detail/tabs/tabs.dart';
+import 'package:Gamegig/models/company.dart';
+import 'package:Gamegig/constants.dart';
+import 'package:Gamegig/views/job_detail/tabs/tabs.dart';
 
 class JobDetail extends StatelessWidget {
   final Company? company;

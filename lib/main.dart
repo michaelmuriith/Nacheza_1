@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:player/router/routers.dart' as routes;
-import 'package:player/locator.dart';
+import 'package:Gamegig/router/routers.dart' as routes;
+import 'package:Gamegig/locator.dart';
 
 void main() {
   setupLocator();
