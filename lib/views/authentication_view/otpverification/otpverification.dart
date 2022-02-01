@@ -112,9 +112,10 @@ class _EnterOtpViewState extends State<EnterOtpView> {
                             onPrimary: Colors.white, // foreground
                           ),
                           onPressed: () {
-                            model.verifyPhone(
-                                context, '+254' + widget.mobileNo);
-                            print(widget.mobileNo);
+                            // model.verifyPhone(
+                            //     context, '+254' + widget.mobileNo);
+                            // print(widget.mobileNo);
+                            SnackBar(content: Text('loading'));
                           },
                           child: const Text('verify'),
                         ),

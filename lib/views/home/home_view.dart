@@ -1,9 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/svg.dart';
 import 'package:player/constants.dart';
 import 'package:player/models/company.dart';
 import 'package:player/views/job_detail/job_detail_view.dart';
-import 'package:player/views/search/search_view.dart';
 import 'package:player/widgets/bottom_nav.dart';
 import 'package:player/widgets/recent_job_card.dart';
 import 'package:player/widgets/search.dart';
