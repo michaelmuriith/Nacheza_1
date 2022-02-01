@@ -82,13 +82,11 @@ class JobDetail extends StatelessWidget {
                                 .toList(),
                           ),
                           const SizedBox(height: 25.0),
-                          Material(
+                          Container(
                             color: Colors.white,
-                            shape: RoundedRectangleBorder(
-                              borderRadius: BorderRadius.circular(12.0),
-                              side: BorderSide(
-                                color: kBlack.withOpacity(.2),
-                              ),
+                            decoration: BoxDecoration(
+                              shape: BoxShape.rectangle,
+                              borderRadius: BorderRadius.circular(12.0)
                             ),
                             // borderRadius: BorderRadius.circular(12.0),
                             child: const TabBar(
